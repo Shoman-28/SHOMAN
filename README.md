@@ -1,6 +1,6 @@
 ### Hi there, I'm  Shoman [Live link](https://my-site-c7ca2.web.app) 👋
 
-[<img align="left" alt="Visual Studio Code" width="300px" src="https://i.ibb.co/mh61wGp/mylogo.png" />](https://sultanmahmud-587e3.web.app/)
+[<img align="left" alt="Visual Studio Code" width="300px" src="https://i.ibb.co/mh61wGp/mylogo.png" />](https://i.ibb.co/d7TQj5X/my-logo.png)
 
 <br/>
 
@@ -16,11 +16,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://i.ibb.co/d7TQj5X/my-logo.png" />](https://github.com/Shoman-28)
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://i.ibb.co/fxBs83W/iconfinder-71-github-4202098.png" />](https://github.com/Shoman-28)
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://i.ibb.co/BZhDq0t/iconfinder-Colored-Facebook3-svg-5365678.png" />](https://www.facebook.com/profile.php?id=100028062492401)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://i.ibb.co/CsnqNjZ/iconfinder-square-linkedin-317725.png" />]( https://www.linkedin.com/in/shoman-miah-91bb05210
 )
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="" />](https://www.instagram.com/saimon_960/)
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="" />]()
 
 <br />
 
